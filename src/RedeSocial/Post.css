@@ -1,0 +1,29 @@
+@font-face{
+    font-family: "Varela";
+    src: url(./VarelaRound-Regular.ttf);
+}
+body{
+    background-color: rgb(56, 56, 56);
+    font-family: "Varela", Helvetica, sans-serif;
+    color: white;
+}
+
+h3{
+    padding: 20px;
+}
+
+span{
+    float: right;
+    margin: 0 20px 10px 0;
+}
+
+.post{
+    display: inline-table;
+    background-color: rgb(99, 99, 99);
+    height: 160px;
+    width: 400px;
+    margin: 30px 0 0 0;
+    margin-left: 3%;
+    border-radius: 20px;
+}
+

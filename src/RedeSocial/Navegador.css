@@ -1,0 +1,41 @@
+@font-face{
+    font-family: "Varela";
+    src: url(./VarelaRound-Regular.ttf);
+}
+body{
+    background-color: rgb(56, 56, 56);
+    font-family: "Varela", Helvetica, sans-serif;
+    color: white;
+}
+
+nav{
+    background-color: rgb(36, 36, 36);
+}
+
+.icon{
+    width: 3%;
+    margin-top: 1%;
+    margin-left: 1%;;
+}
+
+.botoes{
+    display: inline;
+    margin-left: 37%;
+    margin-right: -50%;
+}
+
+button{
+    font-family: "Varela", Helvetica, sans-serif;
+    border-width: 2px;
+    border-color: white;
+    color: white;
+    border-radius: 10px;
+    background-color: transparent;
+    padding: 10px;
+    margin: 0 0 10px 0;
+}
+
+.user{
+    float: right;
+    margin: 2%;
+}
